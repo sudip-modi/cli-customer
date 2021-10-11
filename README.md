@@ -3,7 +3,7 @@ Steps to run the cli tool
 
 1: Clone the repo to your projects folder using "git clone https://github.com/sudip-modi/cli-customer.git" \
 2: Download mongodb and install it\
-3: Donload nodejs and install it
+3: Donload nodejs and install it\
 4: Open a terminal setup a connection with the command "mongod"\
 5: Open another terminal and open a mongo shell with the command "mongo", so you can view the database\
 6: Open command line and navigate to the cli-customer folder\
